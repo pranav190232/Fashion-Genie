@@ -87,7 +87,7 @@ python app.py
 * **Gradio**: UI framework for building the interactive interface
 * **Pillow (PIL)**: For handling image uploads
 * **Google Generative AI (Gemini 2.5)**: For generating personalized styling advice
-* **Flask**: For backend server management
+
 
 ---
 
